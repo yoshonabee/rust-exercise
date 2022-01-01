@@ -1,3 +1,10 @@
+mod lib;
+
 fn main() {
-    println!("Hello, world!");
+    // lib::print::run();
+
+    // lib::vars::run();
+
+    // lib::strings::run();
+    lib::vectors::run();
 }
