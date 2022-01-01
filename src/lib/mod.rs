@@ -4,4 +4,5 @@
 // pub mod arrays;
 // pub mod vectors;
 // pub mod conditions;
-pub mod loops;
+// pub mod loops;
+pub mod functions;
