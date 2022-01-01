@@ -6,5 +6,6 @@ fn main() {
     // lib::vars::run();
 
     // lib::strings::run();
-    lib::vectors::run();
+    // lib::vectors::run();
+    lib::conditions::run();
 }
