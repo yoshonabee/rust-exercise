@@ -7,5 +7,6 @@ fn main() {
 
     // lib::strings::run();
     // lib::vectors::run();
-    lib::conditions::run();
+    // lib::conditions::run();
+    lib::loops::run();
 }
